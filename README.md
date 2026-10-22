@@ -1,4 +1,4 @@
-# Gireesh — Cinematic Portfolio
+# Psycho2.9 — Cinematic Portfolio
 
 A scroll-driven designer portfolio told as one continuous film:
 
